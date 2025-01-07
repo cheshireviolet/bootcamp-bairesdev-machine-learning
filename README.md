@@ -10,6 +10,8 @@ __Transfer Learning.py__ - Treina um modelo a partir do dataset criado, carrega 
 
 __Confusion Matrix.py__ - Gera Matriz de confusão e imprime métricas
 
+__Face Recognition.ipynb__ - Seguindo tutorial, reconhecimento facial em tempo real
+
 # Libraries Required
 - json
 - requests
