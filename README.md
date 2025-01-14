@@ -12,6 +12,8 @@ __Confusion Matrix.py__ - Gera Matriz de confusão e imprime métricas
 
 __Face Recognition.ipynb__ - Seguindo tutorial, reconhecimento facial em tempo real
 
+__Image Recommendation.ipynb__ - Seguindo tutorial, recomenda produtos baseado em imagem original
+
 # Libraries Required
 - json
 - requests
