@@ -14,13 +14,7 @@ __Face Recognition.ipynb__ - Seguindo tutorial, reconhecimento facial em tempo r
 
 __Image Recommendation.ipynb__ - Seguindo tutorial, recomenda produtos baseado em imagem original
 
-# Libraries Required
-- json
-- requests
-- numpy
-- keras
-- matplotlib
-- tensorflow
+__Virtual Assistant.py__ - Assistente Virtual simples que interpreta comandos de hora e temperatura responde por voz 
 
 # Credits
 - Cardfight! Vanguard API made by [Brent Pappas](https://pappasbrent.com/)
